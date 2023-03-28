@@ -15,9 +15,9 @@ by Tobias Libera
 
 Material:			Generic PLA
 Infill:				40 %
-Layer Height:		0.2 mm
+Layer Height:			0.2 mm
 Speed:				60 mm/s
-Wall Ordering:		Outside To Inside
+Wall Ordering:			Outside To Inside
 
 - Printing Time:
 
@@ -31,9 +31,9 @@ Wall Ordering:		Outside To Inside
 
 Material:			Generic PLA
 Infill:				100 %
-Layer Height:		0.2 mm
+Layer Height:			0.2 mm
 Speed:				60 mm/s
-Wall Ordering:		Outside To Inside
+Wall Ordering:			Outside To Inside
 
 - Printing Time:
 
