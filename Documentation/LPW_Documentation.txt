@@ -1,0 +1,41 @@
+
+######## Documentation For LP Wall Mount ########
+
+by Tobias Libera
+
+
+!!! For every LP Wall Mount there is 1 additional M3x6 screw needed !!!
+	(Where the thread length is 6mm)
+
+
+
+---- LPW_Mount ----
+
+- Cura Settings:
+
+Material:			Generic PLA
+Infill:				40 %
+Layer Height:		0.2 mm
+Speed:				60 mm/s
+Wall Ordering:		Outside To Inside
+
+- Printing Time:
+
+	21 min
+
+
+
+---- LP_Cap ----
+
+- Cura Settings:
+
+Material:			Generic PLA
+Infill:				100 %
+Layer Height:		0.2 mm
+Speed:				60 mm/s
+Wall Ordering:		Outside To Inside
+
+- Printing Time:
+
+	6 min
+		
