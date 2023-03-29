@@ -14,14 +14,14 @@ Please mind, the head of the nail or screw shouldn't be thicker than 1.2mm.\
 \
 Also, you need ***1 additional M3x6 screw*** to fit the two parts together. Where the thread length is 6mm.\
 \
-STEP files of the parts are also available, so it should be easy to modify the parts to your needs.\
+STEP files of the parts are also available, so it should be easy to modify the parts to your needs.
 
 <br></br>
 
 ### Before Printing
 
 Before printing, I recommend to print the ***LPW_Test_ScrewHole_M3*** part once, to check if you can tighten the M3 screw into the screw hole.\
-The nominal diameter of the hole is ***2.93mm***, which works good for my printer and my slicer settiungs. Maybe you need another value to get a good fit. Feel free to modify the STEP files.\
+The nominal diameter of the hole is ***2.93mm***, which works good for my printer and my slicer settings. Maybe you need another value to get a good fit. Feel free to modify the STEP files.
 
 <br></br>
 
